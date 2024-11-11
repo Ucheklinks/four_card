@@ -139,6 +139,8 @@ img {
     padding: 0px;
     padding-top: 60px;
     padding-bottom: 60px;
+    display: flex;
+    justify-items:center;
   }
 
   /* hero section */
