@@ -132,7 +132,7 @@ img {
 }
 
 /* mobile version */
-@media (max-width: 576px) {
+@media (min-width: 320px) and (max-width:767px){
   /* main container section */
 
   .container_div {
